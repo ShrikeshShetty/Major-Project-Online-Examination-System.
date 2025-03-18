@@ -1,0 +1,11 @@
+/* Styles for the active dropdown menu item */
+.dropdown-menu .dropdown-item.active {
+  background-color: #f8f9fa; /* Highlight color */
+  color: #007bff; /* Text color when active */
+}
+
+/* Styles for the active dropdown */
+.dropdown.active .dropdown-toggle {
+  background-color: #007bff; /* Highlight background color */
+  color: #fff; /* Text color when active */
+}
